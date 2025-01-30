@@ -1,0 +1,22 @@
+==>Clearly define what personal and non-personal data is collected.
+==>Explain why the data is collected and how it benefits users.
+==>Outline security practices to safeguard user information.
+==>State if data is shared with third parties and under what conditions.
+==>Inform users about their rights regarding data access, modification, and deletion.
+==>Disclose the use of cookies and tracking technologies.
+==>Ensure adherence to privacy laws like GDPR, CCPA, or local regulations.
+==>Explain how users will be notified about any changes to the privacy policy.
+==>Specify if the software/content follows an open-source or proprietary license.
+==>Define what users are allowed to do (e.g., use, modify, distribute).
+==>List any limitations on use (e.g., no resale, no reverse engineering).
+==>State that the software/content is provided "as is" without warranties.
+==>If required, mention how users should credit the original creator.
+==>Clarify if modifications and redistribution are allowed.
+==>Define conditions under which the license can be revoked.
+==>Specify the jurisdiction that governs the license.
+
+
+
+
+
+
